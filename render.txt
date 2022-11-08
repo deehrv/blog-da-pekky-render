@@ -1,0 +1,8 @@
+banco externo
+postgres://db_blogpekky_user:8uaPR2iYrglXD49MpOIJjx93Hbtu90p2@dpg-cdl6bdcgqg43pc5d1mpg-a.oregon-postgres.render.com/db_blogpekky
+
+senha
+8uaPR2iYrglXD49MpOIJjx93Hbtu90p2
+ 
+interno
+postgres://db_blogpekky_user:8uaPR2iYrglXD49MpOIJjx93Hbtu90p2@dpg-cdl6bdcgqg43pc5d1mpg-a/db_blogpekky
